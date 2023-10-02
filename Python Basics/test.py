@@ -8,3 +8,7 @@ Output:
 
      Hello, world!
 """
+
+x is 4 , 3 ,2 , 1 , 0
+
+so ther will be space given acocording to that x.
